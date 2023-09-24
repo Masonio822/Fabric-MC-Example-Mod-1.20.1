@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 1,
+  "group": "gem",
+  "ingredient": {
+    "item": "tutorialmod:raw_gem"
+  },
+  "result": "tutorialmod:gem"
+}

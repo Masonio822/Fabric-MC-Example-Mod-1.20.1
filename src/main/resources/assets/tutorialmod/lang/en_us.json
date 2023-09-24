@@ -1,0 +1,12 @@
+{
+  "item.tutorialmod.gem": "Gem",
+  "item.tutorialmod.raw_gem": "Raw Gem",
+  "item.tutorialmod.metal_detector": "Metal Detector",
+
+  "itemgroup.gem": "Gem Tutorial Group",
+
+  "block.tutorialmod.gem_block": "Gem Block",
+  "block.tutorialmod.raw_gem_block": "Raw Gem Block",
+  "block.tutorialmod.gem_ore": "Gem Ore",
+  "block.tutorialmod.deepslate_gem_ore": "Deepslate Gem Ore"
+}
